@@ -9,8 +9,6 @@ This repository contains the code for a simple user registration form created us
 - Includes a checkbox for agreeing to terms and conditions.
 - Provides options for social media account creation.
 
-## Preview
-![Registration Form Preview](https://github.com/Bindu-1/Registration-Form/blob/main/Screenshot%202024-02-11%20124514.png?raw=true)
 
 ## Live Preview
-[Live Preview](https://bindu-1.github.io/Registration-Form/)
+[Live Preview]( https://familabanu.github.io/User-Registration-Form/)
